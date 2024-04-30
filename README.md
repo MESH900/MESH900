@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @MESH900
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!DOCTYPE html>
+<html>
+<head>
+    <title>موقعي الأول</title>
+</head>
+<body>
+    <h1>مرحبا بك في موقعي الأول!</h1>
+    <p>هذا هو النص الأول في موقعي.</p>
+</body>
+</html>
 
-<!---
-MESH900/MESH900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
